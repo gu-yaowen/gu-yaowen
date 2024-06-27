@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **gu-yaowen/gu-yaowen**. I'm currently learning and conducting research on AI for drug discovery, including affinity prediction, drug repurposing, representation learning, and more.
+I'm **Yaowen Gu**. I'm currently learning and conducting research on AI for drug discovery, including affinity prediction, drug repurposing, representation learning, and more.
 
 <!--
 ## Languages and Tools  
